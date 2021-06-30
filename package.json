@@ -1,0 +1,25 @@
+{
+  "name": "summa.run",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@material-ui/core": "^4.11.4",
+    "algoliasearch": "^4.10.2",
+    "axios": "^0.21.1",
+    "instantsearch.css": "^7.4.5",
+    "next": "10.2.3",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-instantsearch-dom": "^6.11.2",
+    "react-search-field": "^1.2.1"
+  },
+  "devDependencies": {
+    "css-loader": "^5.2.6",
+    "style-loader": "^3.0.0"
+  }
+}
